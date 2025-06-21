@@ -1,0 +1,13 @@
+add new product: 0 Chilli 20 10 false
+add new product: 1 Lemon 0 0 false
+remove product: not found
+add new product: 2 Durian 3 10 true
+remove product: not found
+add new product: 3 Papaya 10 20 true
+add new product: 4 Orange 8 0 false
+remove product: not found
+add new product: 5 Carrot 25 15 false
+add new product: 6 Apple 0 10 true
+remove product: 2 Durian
+remove product: not found
+remove product:

@@ -1,0 +1,6 @@
+remove product: not found
+add new product: 0 Papaya 0 20 true
+add new product: 1 Banana 0 0 false
+add new product: 2 Orange 8 0 false
+remove product: 0 Papaya
+remove product:

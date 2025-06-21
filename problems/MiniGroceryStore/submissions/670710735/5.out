@@ -1,0 +1,15 @@
+add new product: 1 Papaya 0 20 true
+add new product: 2 Banana 0 0 false
+add new product: 3 Orange 8 0 false
+remove product: 1 Papayaadd new product: 4 Carrot 10 15 true
+add new product: 5 Apple 0 10 true
+add new product: 6 Corn 5 5 false
+remove product: 6 Cornadd new product: 7 Mango 10 0 false
+add new product: 8 Cabbage 10 10 false
+remove product: 5 Appleadd new product: 9 Chilli 20 10 false
+2 Banana 0 0 false
+3 Orange 8 0 false
+4 Carrot 10 15 true
+7 Mango 10 0 false
+8 Cabbage 10 10 false
+9 Chilli 20 10 false

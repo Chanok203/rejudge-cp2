@@ -1,0 +1,34 @@
+add new product: 1 Chilli 20 10 false
+1 Chilli 20 10 false
+add new product: 2 Lemon -10 -20 false
+2 Lemon -10 -20 false
+remove product: 
+1 null 0 0 true
+add new product: 4 Durian 3 10 true
+4 Durian 3 10 true
+remove product: 
+1 null 0 0 true
+add new product: 6 Papaya 10 20 true
+6 Papaya 10 20 true
+add new product: 7 Orange 8 0 false
+7 Orange 8 0 false
+remove product: not found 
+1 null 0 0 true
+add new product: 9 Carrot 25 15 false
+9 Carrot 25 15 false
+add new product: 10 Apple -5 10 true
+10 Apple -5 10 true
+remove product: 
+1 null 0 0 true
+add new product: 12 Corn 5 5 true
+12 Corn 5 5 true
+remove product: 
+1 null 0 0 true
+add new product: 14 Mango 10 10 true
+14 Mango 10 10 true
+remove product: 
+1 null 0 0 true
+add new product: 16 Cabbage 10 10 true
+16 Cabbage 10 10 true
+remove product: not found 
+1 null 0 0 true

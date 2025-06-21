@@ -1,0 +1,8 @@
+add new product: 1 Papaya 0 20 true
+add new product: 2 Orange 8 0 false
+add new product: 3 Carrot 10 15 true
+add new product: 4 Chilli 20 10 false
+1 Papaya 0 20 true
+2 Orange 8 0 false
+3 Carrot 10 15 true
+4 Chilli 20 10 false
